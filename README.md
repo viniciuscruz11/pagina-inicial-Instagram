@@ -1,9 +1,14 @@
-<h1>Instagram</h1>
+<h1 align="center">
+  <img src="https://github.com/viniciuscruz11/pagina-inicial-Instagram/blob/main/img/insta-logo.png?raw=true">
+</h1>
 <br>
 <br>
-<h2>Esse foi um projeto eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+
+<h2 align="center">Esse foi um projeto eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+
 <br>
 <br>
+
 <h3>Tecnologias utilizadas:</h3>
 <br>
 
